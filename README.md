@@ -10,7 +10,7 @@ Script to auto-search Craigslist and email you any hits.
 2. Install Mysql, rubygems and bundler.
 3. `mysql -uyourusername -pyourpassword < db_setup.sql` to set up the database.
 4. `bundle install` to install the gems you need.
-5. Edit detais.yml to contain your database and Gmail usernames and passwords.
+5. Edit details.yml to contain your database and Gmail usernames and passwords.
 6. Edit queries.yml to set search locations, search strings, and result recipients.
 7. Run it:  `ruby craig.rb`
 8. Add it to your cron file and run it every few minutes to get almost instant notification of new CL posts.
