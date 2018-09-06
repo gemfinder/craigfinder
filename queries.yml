@@ -1,0 +1,14 @@
+regions:
+    - 'losangeles'
+    - 'inlandempire'
+    - 'sandiego'
+
+users:
+
+    - email: 'alice@gmail.com'
+      queries:
+          -   'bmw -new -convertible'
+    - email: 'joe@gmail.com'
+      queries:
+          -   'flying boat -radial'
+          -   'jeanneau sailboat'

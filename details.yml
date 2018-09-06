@@ -1,0 +1,4 @@
+db_user: yourdbuser
+db_password: yourdbpassword
+mail_user: yourgmailaddress
+mail_password: yourgmailpassword
